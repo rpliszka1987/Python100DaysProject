@@ -25,4 +25,4 @@ if pepperoni == "Y":
 if extra_cheese == "Y":
     totalBill += 1
 
-print(f"Your total is ${totalBill}")
+print(f"Your final bill is: ${totalBill}.")
